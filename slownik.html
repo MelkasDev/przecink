@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reguły Przecinkowe</title>
+    <style>
+        body {
+            background-color: #121212;
+            font-family: 'Arial', sans-serif;
+            color: white;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+
+        #container {
+            width: 80%;
+            max-width: 900px;
+            margin-top: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            text-align: left;
+            overflow-y: auto;
+            max-height: 80vh;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #333;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        h2 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+
+        .neon-button {
+            color: white;
+            text-shadow: 0 0 5px white, 0 0 10px rgba(255, 255, 255, 0.8);
+            cursor: pointer;
+            transition: 0.3s;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-weight: bold;
+            position: relative;
+            display: inline-block;
+            background-color: transparent;
+            border: 2px solid white;
+        }
+
+        .neon-button:hover {
+            text-shadow: 0 0 10px white, 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.8);
+            transform: scale(1.1);
+        }
+
+        .neon-button::after {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 0%;
+            height: 3px;
+            background: white;
+            transition: width 0.5s ease-in-out;
+        }
+
+        .neon-button:hover::after {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>Reguły Przecinkowe</h1>
+
+        <h2>1. Wyrazy i wyrażenia wymagające przecinka przed sobą</h2>
+        <p><strong>Związki logiczne:</strong></p>
+        <ul>
+            <li><strong>„więc”</strong> – zdanie wynikowe</li>
+            <li><strong>„dlatego”</strong> – wskazuje na przyczynę</li>
+            <li><strong>„to dlatego”</strong></li>
+            <li><strong>„wtedy”</strong> – określa moment</li>
+            <li><strong>„zatem”</strong></li>
+        </ul>
+        <p><strong>Przeczenia i przeciwności:</strong></p>
+        <ul>
+            <li><strong>„mimo że”</strong> – zdanie przyzwalające</li>
+            <li><strong>„chociaż”</strong> – zdanie przyzwalające</li>
+            <li><strong>„choć”</strong> – zdanie przyzwalające</li>
+            <li><strong>„ale”</strong> – łączy zdania współrzędne przeciwstawne</li>
+            <li><strong>„jednak”</strong> – łączy zdania współrzędne przeciwstawne</li>
+            <li><strong>„a”</strong> – łączy zdania współrzędne (w kontrastach)</li>
+        </ul>
+        <p><strong>Zdania podrzędne czasowe:</strong></p>
+        <ul>
+            <li><strong>„gdy”</strong> – wyraża czas</li>
+            <li><strong>„kiedy”</strong> – wyraża czas</li>
+            <li><strong>„dopóki”</strong> – wyraża czas</li>
+            <li><strong>„aż”</strong> – wyraża czas</li>
+            <li><strong>„zanim”</strong> – wyraża czas</li>
+        </ul>
+        <p><strong>Zdania podrzędne warunkowe:</strong></p>
+        <ul>
+            <li><strong>„jeśli”</strong> – wyraża warunek</li>
+            <li><strong>„gdyby”</strong> – wyraża warunek</li>
+            <li><strong>„chyba że”</strong> – wyraża warunek</li>
+        </ul>
+        <p><strong>Zdania podrzędne przyzwalające:</strong></p>
+        <ul>
+            <li><strong>„mimo że”</strong> – wyraża sprzeczność (przyzwalające)</li>
+            <li><strong>„chociaż”</strong> – wyraża sprzeczność (przyzwalające)</li>
+            <li><strong>„choć”</strong> – wyraża sprzeczność (przyzwalające)</li>
+        </ul>
+
+        <h2>2. Kiedy stosujemy przecinki?</h2>
+        <p>Przecinki stawiamy w następujących sytuacjach:</p>
+        <ul>
+            <li><strong>Między zdaniem głównym a zdaniem podrzędnym</strong> – jeśli zdanie podrzędne wyraża czas, warunek, przyczynę, wynik, sprzeczność lub inne zależności.</li>
+            <li><strong>Przed wyrazami łączącymi</strong> – jak „ale”, „jednak”, „a” (przy zdaniach współrzędnych przeciwstawnych).</li>
+            <li><strong>Przy wyrażeniach czasowych, warunkowych i przyzwalających</strong> – ponieważ te wyrażenia wprowadzają dodatkowe myśli w zdaniu, które są oddzielane przecinkiem.</li>
+        </ul>
+
+        <h2>3. Zdanie podrzędne czasowe</h2>
+        <p><strong>Co to jest?</strong></p>
+        <p>Zdanie podrzędne czasowe wyraża czas w odniesieniu do sytuacji w zdaniu głównym. Zwykle zaczyna się od słów takich jak: „kiedy”, „gdy”, „zanim”, „aż”, „dopóki”.</p>
+        <p><strong>Przykłady:</strong></p>
+        <ul>
+            <li>"Gdy byłem mały, marzyłem o podróżach."</li>
+            <li>"Kiedy skończysz pracę, zadzwoń do mnie."</li>
+        </ul>
+        <p><strong>Dlaczego przecinek?</strong></p>
+        <p>Przecinek stawiamy, ponieważ zdanie podrzędne czasowe wprowadza dodatkową informację o czasie, oddzielając ją od głównej myśli.</p>
+
+        <h2>4. Zdanie podrzędne warunkowe</h2>
+        <p><strong>Co to jest?</strong></p>
+        <p>Zdanie podrzędne warunkowe wyraża warunek, który musi zostać spełniony, aby doszło do jakiejś sytuacji. Często zaczyna się od takich słów jak: „jeśli”, „gdyby”, „chyba że”.</p>
+        <p><strong>Przykłady:</strong></p>
+        <ul>
+            <li>"Jeśli będziesz grzeczny, dostaniesz prezent."</li>
+            <li>"Gdyby było cieplej, poszlibyśmy na spacer."</li>
+        </ul>
+        <p><strong>Dlaczego przecinek?</strong></p>
+        <p>Przecinek stawiamy przed zdaniem podrzędnym warunkowym, ponieważ wyraża ono zależność warunkową, czyli coś, co ma się wydarzyć tylko wtedy, gdy spełniony będzie określony warunek.</p>
+
+        <h2>5. Zdanie podrzędne przyzwalające</h2>
+        <p><strong>Co to jest?</strong></p>
+        <p>Zdanie podrzędne przyzwalające wyraża sprzeczność lub pozwolenie na coś, mimo że zachodzą pewne przeciwności. Często używa się takich słów jak: „mimo że”, „chociaż”, „choć”.</p>
+        <p><strong>Przykłady:</strong></p>
+        <ul>
+            <li>"Mimo że padało, poszliśmy na spacer."</li>
+            <li>"Chociaż byłem zmęczony, poszedłem do pracy."</li>
+        </ul>
+        <p><strong>Dlaczego przecinek?</strong></p>
+        <p>Przecinek stawiamy przed zdaniem podrzędnym przyzwalającym, ponieważ informuje ono o okolicznościach, które nie stanowią przeszkody dla działania w zdaniu głównym.</p>
+    </div>
+    <a href="index.html"><button class="neon-button" id="side-button">Powrót</button></a>
+</body>
+</html>

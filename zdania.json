@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "zdanie_blad": "Gdy skończysz pracę od razu do mnie zadzwoń.",
+        "zdanie_poprawne": "Gdy skończysz pracę, od razu do mnie zadzwoń.",
+        "wyjasnienie": "Przecinek po zdaniu podrzędnym 'Gdy skończysz pracę'."
+    },
+    {
+        "id": 2,
+        "zdanie_blad": "Nie wiedziałem że przyjdziesz tak wcześnie.",
+        "zdanie_poprawne": "Nie wiedziałem, że przyjdziesz tak wcześnie.",
+        "wyjasnienie": "Przecinek przed 'że', bo to zdanie podrzędne."
+    },
+    {
+        "id": 3,
+        "zdanie_blad": "Kiedy byłem mały marzyłem o podróżach.",
+        "zdanie_poprawne": "Kiedy byłem mały, marzyłem o podróżach.",
+        "wyjasnienie": "Przecinek po zdaniu podrzędnym 'Kiedy byłem mały'."
+    },
+    {
+        "id": 4,
+        "zdanie_blad": "Jeżeli masz ochotę możemy obejrzeć film.",
+        "zdanie_poprawne": "Jeżeli masz ochotę, możemy obejrzeć film.",
+        "wyjasnienie": "Przecinek po zdaniu warunkowym 'Jeżeli masz ochotę'."
+    },
+    {
+        "id": 5,
+        "zdanie_blad": "To człowiek który zawsze dotrzymuje słowa.",
+        "zdanie_poprawne": "To człowiek, który zawsze dotrzymuje słowa.",
+        "wyjasnienie": "Przecinek przed 'który', bo to zdanie podrzędne przydawkowe."
+    },
+    {
+        "id": 6,
+        "zdanie_blad": "Poszedłem na spacer chociaż padało.",
+        "zdanie_poprawne": "Poszedłem na spacer, chociaż padało.",
+        "wyjasnienie": "Przecinek przed 'chociaż', bo to zdanie podrzędne."
+    },
+    {
+        "id": 7,
+        "zdanie_blad": "Nie mam pojęcia co się stało.",
+        "zdanie_poprawne": "Nie mam pojęcia, co się stało.",
+        "wyjasnienie": "Przecinek przed 'co', bo to zdanie podrzędne."
+    },
+    {
+        "id": 8,
+        "zdanie_blad": "Powiedział że nie ma czasu.",
+        "zdanie_poprawne": "Powiedział, że nie ma czasu.",
+        "wyjasnienie": "Przecinek przed 'że', bo to zdanie podrzędne."
+    },
+    {
+        "id": 9,
+        "zdanie_blad": "To była książka która mnie zachwyciła.",
+        "zdanie_poprawne": "To była książka, która mnie zachwyciła.",
+        "wyjasnienie": "Przecinek przed 'która', bo to zdanie podrzędne przydawkowe."
+    },
+    {
+        "id": 10,
+        "zdanie_blad": "Jeśli będzie ładna pogoda pójdziemy na wycieczkę.",
+        "zdanie_poprawne": "Jeśli będzie ładna pogoda, pójdziemy na wycieczkę.",
+        "wyjasnienie": "Przecinek po zdaniu warunkowym 'Jeśli będzie ładna pogoda'."
+    },
+    {
+        "id": 11,
+        "zdanie_blad": "Nie wiem dlaczego się spóźnił.",
+        "zdanie_poprawne": "Nie wiem, dlaczego się spóźnił.",
+        "wyjasnienie": "Przecinek przed 'dlaczego', bo to zdanie podrzędne."
+    },
+    {
+        "id": 12,
+        "zdanie_blad": "Chociaż byłem zmęczony nie poszedłem spać.",
+        "zdanie_poprawne": "Chociaż byłem zmęczony, nie poszedłem spać.",
+        "wyjasnienie": "Przecinek po zdaniu podrzędnym 'Chociaż byłem zmęczony'."
+    },
+    {
+        "id": 13,
+        "zdanie_blad": "Było zimno więc założyłem płaszcz.",
+        "zdanie_poprawne": "Było zimno, więc założyłem płaszcz.",
+        "wyjasnienie": "Przecinek przed 'więc', bo to zdanie wynikowe."
+    },
+    {
+        "id": 14,
+        "zdanie_blad": "To dom w którym się wychowałem.",
+        "zdanie_poprawne": "To dom, w którym się wychowałem.",
+        "wyjasnienie": "Przecinek przed 'w którym', bo to zdanie przydawkowe."
+    },
+    {
+        "id": 15,
+        "zdanie_blad": "Nie lubię kiedy ktoś mi przerywa.",
+        "zdanie_poprawne": "Nie lubię, kiedy ktoś mi przerywa.",
+        "wyjasnienie": "Przecinek przed 'kiedy', bo to zdanie podrzędne."
+    },
+    {
+        "id": 16,
+        "zdanie_blad": "Nie wiem czy zdążę na spotkanie.",
+        "zdanie_poprawne": "Nie wiem, czy zdążę na spotkanie.",
+        "wyjasnienie": "Przecinek przed 'czy', bo to zdanie podrzędne."
+    },
+    {
+        "id": 17,
+        "zdanie_blad": "Mimo że padało poszliśmy na spacer.",
+        "zdanie_poprawne": "Mimo że padało, poszliśmy na spacer.",
+        "wyjasnienie": "Przecinek po zdaniu podrzędnym 'Mimo że padało'."
+    },
+    {
+        "id": 18,
+        "zdanie_blad": "Nie rozumiem dlaczego tak się stało.",
+        "zdanie_poprawne": "Nie rozumiem, dlaczego tak się stało.",
+        "wyjasnienie": "Przecinek przed 'dlaczego', bo to zdanie podrzędne."
+    },
+    {
+        "id": 19,
+        "zdanie_blad": "Zapytaj go jeśli masz jakieś pytania.",
+        "zdanie_poprawne": "Zapytaj go, jeśli masz jakieś pytania.",
+        "wyjasnienie": "Przecinek przed 'jeśli', bo to zdanie warunkowe."
+    },
+    {
+        "id": 20,
+        "zdanie_blad": "To historia którą dobrze pamiętam.",
+        "zdanie_poprawne": "To historia, którą dobrze pamiętam.",
+        "wyjasnienie": "Przecinek przed 'którą', bo to zdanie podrzędne przydawkowe."
+    },
+    {
+        "id": 21,
+        "zdanie_blad": "Nie miałem pojęcia co powinienem zrobić.",
+        "zdanie_poprawne": "Nie miałem pojęcia, co powinienem zrobić.",
+        "wyjasnienie": "Przecinek przed 'co', bo to zdanie podrzędne."
+    },
+    {
+        "id": 22,
+        "zdanie_blad": "Mimo że się starałem nie udało mi się wygrać.",
+        "zdanie_poprawne": "Mimo że się starałem, nie udało mi się wygrać.",
+        "wyjasnienie": "Przecinek po zdaniu podrzędnym 'Mimo że się starałem'."
+    },
+    {
+        "id": 23,
+        "zdanie_blad": "Kiedy byłem dzieckiem lubiłem biegać po podwórku.",
+        "zdanie_poprawne": "Kiedy byłem dzieckiem, lubiłem biegać po podwórku.",
+        "wyjasnienie": "Przecinek po zdaniu podrzędnym 'Kiedy byłem dzieckiem'."
+    },
+    {
+        "id": 24,
+        "zdanie_blad": "Było późno więc poszedłem spać.",
+        "zdanie_poprawne": "Było późno, więc poszedłem spać.",
+        "wyjasnienie": "Przecinek przed 'więc', bo to zdanie wynikowe."
+    },
+    {
+        "id": 25,
+        "zdanie_blad": "Nie wiem skąd masz te informacje.",
+        "zdanie_poprawne": "Nie wiem, skąd masz te informacje.",
+        "wyjasnienie": "Przecinek przed 'skąd', bo to zdanie podrzędne."
+    },
+    {
+        "id": 26,
+        "zdanie_blad": "To miejsce w którym się poznaliśmy.",
+        "zdanie_poprawne": "To miejsce, w którym się poznaliśmy.",
+        "wyjasnienie": "Przecinek przed 'w którym', bo to zdanie podrzędne przydawkowe."
+    },
+    {
+        "id": 27,
+        "zdanie_blad": "Nie mam pojęcia jak to się stało.",
+        "zdanie_poprawne": "Nie mam pojęcia, jak to się stało.",
+        "wyjasnienie": "Przecinek przed 'jak', bo to zdanie podrzędne."
+    },
+    {
+        "id": 28,
+        "zdanie_blad": "Powiedział że przyjdzie ale się spóźnił.",
+        "zdanie_poprawne": "Powiedział, że przyjdzie, ale się spóźnił.",
+        "wyjasnienie": "Przecinek przed 'że' i 'ale', bo to zdania podrzędne i współrzędne."
+    },
+    {
+        "id": 29,
+        "zdanie_blad": "Czekam aż skończysz pracę.",
+        "zdanie_poprawne": "Czekam, aż skończysz pracę.",
+        "wyjasnienie": "Przecinek przed 'aż', bo to zdanie podrzędne."
+    },
+    {
+        "id": 30,
+        "zdanie_blad": "Jeżeli chcesz mogę ci pomóc.",
+        "zdanie_poprawne": "Jeżeli chcesz, mogę ci pomóc.",
+        "wyjasnienie": "Przecinek po zdaniu warunkowym 'Jeżeli chcesz'."
+    },
+    {
+        "id": 31,
+        "zdanie_blad": "Nie pamiętam kto to powiedział.",
+        "zdanie_poprawne": "Nie pamiętam, kto to powiedział.",
+        "wyjasnienie": "Przecinek przed 'kto', bo to zdanie podrzędne."
+    },
+    {
+        "id": 32,
+        "zdanie_blad": "To osoba której ufam najbardziej.",
+        "zdanie_poprawne": "To osoba, której ufam najbardziej.",
+        "wyjasnienie": "Przecinek przed 'której', bo to zdanie podrzędne przydawkowe."
+    },
+    {
+        "id": 33,
+        "zdanie_blad": "Poczekaj aż wrócę.",
+        "zdanie_poprawne": "Poczekaj, aż wrócę.",
+        "wyjasnienie": "Przecinek przed 'aż', bo to zdanie podrzędne."
+    }
+]
